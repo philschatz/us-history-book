@@ -6,8 +6,9 @@ markdown:         kramdown
 
 # Setup
 title:            "Precalculus"
-tagline:          'from http://cnx.org/contents/a7ba2fb8-8925-4987-b182-5f4429d48daa/U.S._History (CC-BY)'
+tagline:          'from http://cnx.org (CC-BY)'
 url:              https://github.com/philschatz/us-history-book
+origin:           http://cnx.org/contents/a7ba2fb8-8925-4987-b182-5f4429d48daa/U.S._History
 
 author:
   name:           'Openstax'
