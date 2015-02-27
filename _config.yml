@@ -1,4 +1,21 @@
 # Dependencies
 markdown:         kramdown
 
-bookviewer:       http://philschatz.com/book-viewer
+# Permalinks
+#permalink:        pretty
+
+# Setup
+title:            "Precalculus"
+tagline:          'from http://cnx.org/contents/a7ba2fb8-8925-4987-b182-5f4429d48daa/U.S._History (CC-BY)'
+url:              https://github.com/philschatz/us-history-book
+
+author:
+  name:           'Openstax'
+  url:            https://github.com/openstax
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+bookviewer:       /book-viewer
