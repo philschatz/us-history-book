@@ -1,0 +1,2685 @@
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml"
+                xmlns:cnx="http://cnx.rice.edu/cnxml"
+                xmlns:cnxorg="http://cnx.rice.edu/system-info"
+                xmlns:md="http://cnx.rice.edu/mdml"
+                xmlns:col="http://cnx.rice.edu/collxml"
+                xmlns:cnxml="http://cnx.rice.edu/cnxml"
+                xmlns:m="http://www.w3.org/1998/Math/MathML"
+                xmlns:q="http://cnx.rice.edu/qml/1.0"
+                xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                xmlns:bib="http://bibtexml.sf.net/"
+                xmlns:cc="http://web.resource.org/cc/"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/col11740/1.3</md:content-url>
+  <md:content-id>col11740</md:content-id>
+  <md:title>U.S. History</md:title>
+  
+  
+  <md:version>1.3</md:version>
+  <md:created>2014/05/07 09:57:44.421 GMT-5</md:created>
+  <md:revised>2015/01/12 12:01:02.479 US/Central</md:revised>
+
+  <md:actors>
+    
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    
+    
+    
+    
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    
+    
+    
+    <md:person userid="cnxushis">
+      <md:firstname>OpenStax College</md:firstname>
+      <md:surname>History</md:surname>
+      <md:fullname>OpenStax College History</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxushis</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+    
+    
+  </md:roles>
+
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  <md:abstract></md:abstract>
+
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+  <col:parameters>
+    <col:param name="real-imaginary-notation" value="font"/>
+    <col:param name="and-or-notation"
+               value="propositional-logic"/>
+    <col:param name="gradient-notation" value="text"/>
+    <col:param name="mean-notation" value="bar"/>
+    <col:param name="remainder-notation" value="text"/>
+    <col:param name="conjugate-notation" value="bar"/>
+    <col:param name="imaginary-i-notation" value="i"/>
+    <col:param name="scalar-product-notation"
+               value="angle-bracket"/>
+    <col:param name="print-font-size" value="10pt"/>
+    <col:param name="curl-notation" value="text"/>
+    <col:param name="for-all-equation-layout"
+               value="symbolic"/>
+    <col:param name="vector-notation" value="bold"/>
+    <col:param name="print-paper-size" value="8.5x11"/>
+    <col:param name="print-font" value="computer-modern"/>
+    <col:param name="print-style" value="ccap-history"/>
+    <col:param name="print-paragraph-spacing"
+               value="compact"/>
+  </col:parameters>
+  
+  <col:content>
+    
+      <col:module document="m52490" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Preface</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Americas, Europe, and Africa Before 1492</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49967" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49986" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Americas</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49968" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Europe on the Brink of Change</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49981" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>West Africa and the Role of Slavery</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Early Globalization: The Atlantic World, 1492–1650</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m49991" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49994" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Portuguese Exploration and Spanish Conquest</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49995" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Religious Upheavals in the Developing Atlantic World</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49990" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Challenges to Spain’s Supremacy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49992" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>New Worlds in the Americas: Labor, Commerce, and the Columbian Exchange</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Creating New Social Orders: Colonial Societies, 1500–1700</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50006" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49998" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Spanish Exploration and Colonial Society</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50000" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Colonial Rivalries: Dutch and French Colonial Ambitions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49996" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>English Settlements in America</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m49999" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Impact of Colonization</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Rule Britannia! The English Empire, 1660–1763</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50018" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50016" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Charles II and the Restoration Colonies</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50014" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Glorious Revolution and the English Empire</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50017" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>An Empire of Slavery and the Consumer Revolution</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50015" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Great Awakening and Enlightenment</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50007" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Wars for Empire</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Imperial Reforms and Colonial Protests, 1763-1774</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50019" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50021" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Confronting the National Debt: The Aftermath of the French and Indian War</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50023" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Stamp Act and the Sons and Daughters of Liberty</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50024" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Townshend Acts and Colonial Protest</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50022" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Destruction of the Tea and the Coercive Acts</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50020" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Disaffection: The First Continental Congress and American Identity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>America's War for Independence, 1775-1783</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50025" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50026" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Britain’s Law-and-Order Strategy and Its Consequences</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50027" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Early Years of the Revolution</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50028" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>War in the South</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50029" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Identity during the American Revolution</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Creating Republican Governments, 1776–1790</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50030" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50031" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Common Sense: From Monarchy to an American Republic</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50034" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>How Much Revolutionary Change?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50035" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Debating Democracy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50036" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Constitutional Convention and Federal Constitution</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Growing Pains: The New Republic, 1790–1820</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50037" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50038" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Competing Visions: Federalists and Democratic-Republicans</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50039" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The New American Republic</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50041" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Partisan Politics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50042" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The United States Goes Back to War</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Industrial Transformation in the North, 1800–1850</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50043" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50044" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Early Industrialization in the Northeast</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50045" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>A Vibrant Capitalist Republic</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50047" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>On the Move: The Transportation Revolution</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50048" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>A New Social Order: Class Divisions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Jacksonian Democracy, 1820–1840</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50049" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50050" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>A New Political Style: From John Quincy Adams to Andrew Jackson</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50051" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Rise of American Democracy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50052" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Nullification Crisis and the Bank War</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50053" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Indian Removal</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50054" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Tyranny and Triumph of the Majority</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>A Nation on the Move: Westward Expansion, 1800–1860</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50055" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50057" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Lewis and Clark</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50059" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Missouri Crisis</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50060" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Independence for Texas</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50061" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Mexican-American War, 1846–1848</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50062" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Free Soil or Slave? The Dilemma of the West</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Cotton is King: The Antebellum South, 1800–1860</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50063" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50064" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Economics of Cotton</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50065" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>African Americans in the Antebellum United States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50066" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Wealth and Culture in the South</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50068" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Filibuster and the Quest for New Slave States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Antebellum Idealism and Reform Impulses, 1820–1860</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50070" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50071" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>An Awakening of Religion and Individualism</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50072" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Antebellum Communal Experiments</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50074" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Reforms to Human Health</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50075" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Addressing Slavery</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50076" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Women’s Rights</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Troubled Times: the Tumultuous 1850s</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50077" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50078" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Compromise of 1850</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50080" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Kansas-Nebraska Act and the Republican Party</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50081" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Dred Scott Decision and Sectional Strife</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50082" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>John Brown and the Election of 1860</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Civil War, 1860–1865</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50084" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50085" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Origins and Outbreak of the Civil War</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50086" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Early Mobilization and War</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50087" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>1863: The Changing Nature of the War</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50088" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>The Union Triumphant</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Era of Reconstruction, 1865–1877</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50090" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50091" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Restoring the Union</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50092" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Congress and the Remaking of the South, 1865–1866</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50094" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Radical Reconstruction, 1867–1872</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50095" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Collapse of Reconstruction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Go West Young Man! Westward Expansion, 1840-1900</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50097" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50098" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Westward Spirit</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50099" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Homesteading: Dreams and Realities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50100" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Making a Living in Gold and Cattle</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50101" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Loss of American Indian Life and Culture</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50102" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Impact of Expansion on Chinese Immigrants and Hispanic Citizens</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Industrialization and the Rise of Big Business, 1870-1900</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50103" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50104" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Inventors of the Age</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50105" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>From Invention to Industrial Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50106" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Building Industrial America on the Backs of Labor</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50107" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>A New American Consumer Culture</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Growing Pains of Urbanization, 1870-1900</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50108" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50109" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Urbanization and Its Challenges</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50117" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The African American “Great Migration” and New European Immigration</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50114" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Relief from the Chaos of Urban Life</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50119" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Change Reflected in Thought and Writing</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Politics in the Gilded Age, 1870-1900</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50120" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50121" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Political Corruption in Postbellum America</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50122" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Key Political Issues: Patronage, Tariffs, and Gold</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50123" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Farmers Revolt in the Populist Era</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50124" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Social and Labor Unrest in the 1890s</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Leading the Way: The Progressive Movement, 1890-1920</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50125" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50126" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Origins of the Progressive Spirit in America</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50127" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Progressivism at the Grassroots Level</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50128" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>New Voices for Women and African Americans</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50129" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Progressivism in the White House</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Age of Empire: American Foreign Policy, 1890-1914</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50132" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50133" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Turner, Mahan, and the Roots of Empire</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50135" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Spanish-American War and Overseas Empire</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50136" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Economic Imperialism in East Asia</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50139" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Roosevelt’s “Big Stick” Foreign Policy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50140" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Taft’s “Dollar Diplomacy”</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Americans and the Great War, 1914-1919</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50141" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50142" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>American Isolationism and the European Origins of War</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50143" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The United States Prepares for War</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50144" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>A New Home Front</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50146" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>From War to Peace</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50147" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Demobilization and Its Difficult Aftermath</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Jazz Age: Redefining the Nation, 1919-1929</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50148" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50149" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Prosperity and the Production of Popular Entertainment</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50151" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Transformation and Backlash</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50152" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>A New Generation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50153" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Republican Ascendancy: Politics in the 1920s</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Brother, Can You Spare a Dime? The Great Depression, 1929-1932</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50161" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50162" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Stock Market Crash of 1929</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50163" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>President Hoover’s Response</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50164" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Depths of the Great Depression</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50165" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Assessing the Hoover Years on the Eve of the New Deal</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Franklin Roosevelt and the New Deal, 1932-1941</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50166" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50167" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Rise of Franklin Roosevelt</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50168" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The First New Deal</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50169" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Second New Deal</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Fighting the Good Fight in World War II, 1941-1945</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50170" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50172" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Origins of War: Europe, Asia, and the United States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50173" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Home Front</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50174" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Victory in the European Theater</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50175" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Pacific Theater and the Atomic Bomb</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Post-War Prosperity and Cold War Fears, 1945-1960</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50183" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50184" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Challenges of Peacetime</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50185" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Cold War</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50186" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The American Dream</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50187" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Popular Culture and Mass Media</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50189" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The African American Struggle for Civil Rights</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Contesting Futures: America in the 1960s</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50178" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50179" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Kennedy Promise</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50181" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Lyndon Johnson and the Great Society</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50182" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Civil Rights Movement Marches On</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50180" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Challenging the Status Quo</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Political Storms at Home and Abroad, 1968-1980</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50191" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50192" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Identity Politics in a Fractured Society</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50194" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Coming Apart, Coming Together</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50195" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Vietnam: The Downward Spiral</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50196" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Watergate: Nixon’s Domestic Nightmare</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50198" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Jimmy Carter in the Aftermath of the Storm</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>From Cold War to Culture Wars, 1980-2000</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50199" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50200" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Reagan Revolution</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50201" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Political and Cultural Fusions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50202" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>A New World Order</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50203" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Bill Clinton and the New Economy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Challenges of the Twenty-First Century</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50208" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50209" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The War on Terror</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50210" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Domestic Mission</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50212" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>New Century, Old Disputes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m50213" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Hope and Change</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m51696" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Declaration of Independence</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m51697" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Constitution of the United States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m51698" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Presidents of the United States of America</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m51699" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>U.S. Political Map</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m51700" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>U.S. Topographical Map</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m51701" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>United States Population Chart</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m51702" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Further Reading</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+  </col:content>
+</col:collection>
