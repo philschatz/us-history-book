@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'US History'
-tagline:          'from http://cnx.org/contents/a7ba2fb8-8925-4987-b182-5f4429d48daa@3.36 (CC-BY)'
+tagline:          'from http://cnx.org/contents/a7ba2fb8-8925-4987-b182-5f4429d48daa@3.37 (CC-BY)'
 url:              https://github.com/philschatz/us-history-book
-origin:           http://cnx.org/contents/a7ba2fb8-8925-4987-b182-5f4429d48daa@3.36
+origin:           http://cnx.org/contents/a7ba2fb8-8925-4987-b182-5f4429d48daa@3.37
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          3.36
+version:          3.37
 
 bookviewer:       http://philschatz.com/book-viewer
 
