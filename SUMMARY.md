@@ -4,9 +4,7 @@ layout: page
 ---
 
 
-<div data-type="abstract">
-U.S. History is designed to meet the scope and sequence requirements of most introductory courses. The text provides a balanced approach to U.S. history, considering the people, events, and ideas that have shaped the United States from both the top down (politics, economics, diplomacy) and bottom up (eyewitness accounts, lived experience). U.S. History covers key forces that form the American experience, with particular attention to issues of race, class, and gender.
-</div>
+<div data-type="abstract"></div>
 
 1.  {: .preface} [Preface](contents/m52490.md)
 2.  {: .chapter} [The Americas, Europe, and Africa Before 1492](contents/m49967.md)
